@@ -46,7 +46,13 @@ h4{
   display: table;
 }
 
+h5 {
+    text-align: left;
+}
 
+.author-content {
+    width: 100%;
+}
 
 
 
