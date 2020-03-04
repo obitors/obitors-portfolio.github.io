@@ -215,3 +215,18 @@ iframe {
   padding: auto;
 
 }
+
+.text {
+    color: #fff;
+    position: absolute;
+  margin-left:39%;
+  margin-top: 3%;
+ border: 0;
+    font-family: aileron, sans-serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    text-align: center;
+    width: 270px;
+    height: 10px;
+        font-weight: 100;
+}
